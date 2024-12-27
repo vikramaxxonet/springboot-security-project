@@ -1,0 +1,4 @@
+spring\security\SecurityApplication.class
+spring\security\error\MyAccessDeniedHandler.class
+spring\security\config\SpringSecurityConfig.class
+spring\security\controller\DefaultController.class
